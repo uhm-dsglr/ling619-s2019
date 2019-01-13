@@ -30,7 +30,10 @@ This course will draw on two valuable resources:
 1. [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 2. Lessons from [Software Carpentry](https://software-carpentry.org/lessons/)
 
-## Final project
+## Course requirements
+Students are required to participate in the 8 meetings listed above and will be asked to be a facilitator for at least one of these meetings. In addition, students are required to *either* participate in 4 LAE lab workshops throughout the semester *or* demonstrate equivilent  progress on a project that relates to this course.
+
+### Final project
 Students in the course will be required to create a GitHub repository that contains: 
 
 1. **README.md** file that explains the content of the repository 

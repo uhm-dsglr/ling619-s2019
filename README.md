@@ -4,7 +4,7 @@
 
 ## Basics
 * **Instructor:** Bradley McDonnell (mcdonn@hawaii.edu)
-* **Dates ~ times:** TBD (Meetings twice a month for 1 hour)
+* **Dates ~ times:** TBD (meets twice a month)
 * **Location:** Phonetics Lab (Moore 162) 
 
 ## Course description
@@ -31,7 +31,7 @@ This course will draw on two valuable resources:
 2. Lessons from [Software Carpentry](https://software-carpentry.org/lessons/)
 
 ## Course requirements
-Students are required to participate in the 8 meetings listed above and will be asked to be a facilitator for at least one of these meetings. In addition, students are required to *either* participate in 4 LAE lab workshops throughout the semester *or* demonstrate equivilent  progress on a project that relates to this course.
+Students are required to participate in the 8 meetings listed above and will be asked to be a facilitator for at least one of these meetings. In addition, students are required to *either* participate in 4 LAE lab workshops throughout the semester *or* demonstrate equivilent  progress on a project that relates to this course. Students are also required to complete a final project.
 
 ### Final project
 Students in the course will be required to create a GitHub repository that contains: 

@@ -13,16 +13,16 @@ This course is designed to equip students working with a broad range of linguist
 ## Course schedule
 Below is a tentative course schedule. 
 
-|   | **Date** | **Topic**                                   | 
-|---|----------|---------------------------------------------|
-| 1 | TBD      | Intro to git                                |
-| 2 | TBD      | Using git commands                          |
-| 3 | TBD      | Linking git & GitHub                        |
-| 4 | TBD      | Collaborating on GitHub                     |
-| 5 | TBD      | Data visualization with ggplot (part 1)     |
-| 6 | TBD      | Data visualization with ggplot (part 1)     |
-| 7 | TBD      | Data transformation with tidyverse (part 1) |
-| 8 | TBD      | Data transformation with tidyverse (part 2) |
+|   | **Date** | **Topic**                                   | **Facilitator** |
+|---|----------|---------------------------------------------|-----------------|
+| 1 | TBD      | Intro to git                                | Brad            |
+| 2 | TBD      | Using git commands                          | Brad            | 
+| 3 | TBD      | Linking git & GitHub                        | Brad            |
+| 4 | TBD      | Collaborating on GitHub                     | TBD             |
+| 5 | TBD      | Data visualization with ggplot (part 1)     | TBD             |
+| 6 | TBD      | Data visualization with ggplot (part 1)     | TBD             |
+| 7 | TBD      | Data transformation with tidyverse (part 1) | TBD             |
+| 8 | TBD      | Data transformation with tidyverse (part 2) | TBD             |
 
 ## Resources
 This course will draw on two valuable resources: 

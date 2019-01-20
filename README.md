@@ -4,25 +4,28 @@
 
 ## Basics
 * **Instructor:** Bradley McDonnell (mcdonn@hawaii.edu)
-* **Dates ~ times:** TBD (meets twice a month)
+* **Dates ~ times:** Tuesday 9-10am (meets twice a month)
 * **Location:** Phonetics Lab (Moore 162) 
 
 ## Course description
 This course is designed to equip students working with a broad range of linguistic data to use cutting edge research methodologies in data science. It will be held in conjunction with the [Data Science Group](https://github.com/uhm-dsg) at the [University of Hawai‘i at Mānoa](https://manoa.hawaii.edu/), which is currently run by the [Department of Linguistics](http://ling.hawaii.edu/). Students enrolled in the course will be expected to participate in the Data Science Group meetings below.  
+
+## Software
+Please follow the [**Sotware installation guide**](installation.md) to install all necessary software. **Please install all software before our first meeting.** (Note that we won't begin using **R** or **R Studio** until meeting 4.) 
 
 ## Course schedule
 Below is a tentative course schedule. 
 
 |   | **Date** | **Topic**                                   | **Facilitator** |
 |---|----------|---------------------------------------------|-----------------|
-| 1 | TBD      | Intro to git                                | Brad            |
-| 2 | TBD      | Using git commands                          | Brad            | 
-| 3 | TBD      | Linking git & GitHub                        | Brad            |
-| 4 | TBD      | Collaborating on GitHub                     | TBD             |
-| 5 | TBD      | Data visualization with ggplot (part 1)     | TBD             |
-| 6 | TBD      | Data visualization with ggplot (part 1)     | TBD             |
-| 7 | TBD      | Data transformation with tidyverse (part 1) | TBD             |
-| 8 | TBD      | Data transformation with tidyverse (part 2) | TBD             |
+| 1 | 1/22/19  | [Intro to git (Part 1)](intro_to git_p1.md) | Brad            |
+| 2 | 2/5/19   | [Intro to git (Part 2)](intro_to git_p2.md) | Brad            | 
+| 3 | 2/19/19  | Linking git & GitHub                        | Brad            |
+| 4 | 3/5/19   | Collaborating on GitHub                     | TBD             |
+| 5 | 3/12/19  | Data visualization with ggplot (part 1)     | TBD             |
+| 6 | 4/2/19   | Data visualization with ggplot (part 1)     | TBD             |
+| 7 | 4/16/19  | Data transformation with tidyverse (part 1) | TBD             |
+| 8 | 4/30/19  | Data transformation with tidyverse (part 2) | TBD             |
 
 ## Resources
 This course will draw on two valuable resources: 

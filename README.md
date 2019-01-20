@@ -4,7 +4,7 @@
 
 ## Basics
 * **Instructor:** Bradley McDonnell (mcdonn@hawaii.edu)
-* **Dates ~ times:** Tuesday 9-10am (meets twice a month)
+* **Time:** Tuesday 9-10am (meets twice a month)
 * **Location:** Phonetics Lab (Moore 162) 
 
 ## Course description
@@ -18,7 +18,7 @@ Below is a tentative course schedule.
 
 |   | **Date** | **Topic**                                   | **Facilitator** |
 |---|----------|---------------------------------------------|-----------------|
-| 1 | 1/22/19  | [Intro to git (Part 1)](intro_to_git_p1.md) | Brad            |
+| 1 | 1/29/19  | [Intro to git (Part 1)](intro_to_git_p1.md) | Brad            |
 | 2 | 2/5/19   | [Intro to git (Part 2)](intro_to_git_p2.md) | Brad            | 
 | 3 | 2/19/19  | Linking git & GitHub                        | Brad            |
 | 4 | 3/5/19   | Collaborating on GitHub                     | TBD             |

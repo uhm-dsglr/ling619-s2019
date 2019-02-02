@@ -7,13 +7,13 @@
 * **Time:** Tuesday 9-10am (meets twice a month)
 * **Location:** Phonetics Lab (Moore 162) 
 
-## Course description
+## Description
 This course is designed to equip students working with a broad range of linguistic data to use cutting edge research methodologies in data science. It will be held in conjunction with the [Data Science Group](https://github.com/uhm-dsg) at the [University of Hawai‘i at Mānoa](https://manoa.hawaii.edu/), which is currently run by the [Department of Linguistics](http://ling.hawaii.edu/). Students enrolled in the course will be expected to participate in the Data Science Group meetings below.  
 
 ## Software
 Please follow the [**Sotware installation guide**](installation.md) to install all necessary software. **Please install all software before our first meeting.** (Note that we won't begin using **R** or **R Studio** until meeting 4.) 
 
-## Course schedule
+## Schedule
 Below is a tentative course schedule. 
 
 |   | **Date** | **Topic**                                   | **Facilitator** |

@@ -139,7 +139,7 @@ I'll use `nano` to edit the file; you can use your favorite plain-text editor if
 $ nano sundanese.txt
 ```
 
-An editor window will open up. Type the text below into the `zulu.txt` file:
+An editor window will open up. Type the text below into the `sundanese.txt` file:
 
 ```
 belongs to the Austronesian language family

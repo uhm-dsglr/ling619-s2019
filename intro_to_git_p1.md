@@ -1,13 +1,13 @@
 # Introduction to git (Part 1)
 
-The materials below are based largely on materials that [Na-Rae Han](http://www.pitt.edu/~naraehan/) (Pitt) developed with for a Satellite Workshop at LSA 2019 **[Tools for Reproducible Research in Linguistics](https://github.com/mcdonn/LSA2019-Reproducible-Research)** that we co-taught, which were in turn adapted from the excellent lessons by the Software Carpentry, which they have generously made available through the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). For each of the sections, we encourage you to visit [Software Carpentry's original lesson page](http://swcarpentry.github.io/git-novice/) for more in-depth content. Our workshop lessons below are based on their lessons 2 to 6. 
+The materials below are based largely on materials that [Na-Rae Han](http://www.pitt.edu/~naraehan/) (Pitt) developed with for a Satellite Workshop at LSA 2019 **[Tools for Reproducible Research in Linguistics](https://github.com/mcdonn/LSA2019-Reproducible-Research)** that we co-taught, which were in turn adapted from the excellent lessons by the Software Carpentry, which they have generously made available through the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). For each of the sections, we encourage you to visit [Software Carpentry's original lesson page](http://swcarpentry.github.io/git-novice/) for more in-depth content. This lesson and the next on git are based on their lessons 2 to 6. 
 
 1.  [Setting Up Git](#setting-up-git)  
 1.  [Creating a Repository](#creating-a-repository) 
 1.  [Tracking Changes](#tracking-changes) 
-1.  [A Commit Workflow](#a-commit-workflow) (2nd half of SWC's Tracking Changes)
-1.  [Exploring History](#exploring-history) 
-1.  [Ignoring Things](#ignoring-things) 
+1.  [A Commit Workflow](intro_to_git_p2.md#a-commit-workflow) (2nd half of SWC's Tracking Changes)
+1.  [Exploring History](intro_to_git_p2.md#exploring-history) 
+1.  [Ignoring Things](intro_to_git_p2.md#ignoring-things) 
 
 ## Setting Up git
 

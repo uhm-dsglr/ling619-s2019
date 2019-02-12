@@ -17,6 +17,7 @@ word order: SVO
 ```
 
 Then see what's changed: 
+
 ```bash
 $ git diff
 diff --git a/sundanese.txt b/sundanese.txt
@@ -31,7 +32,9 @@ index 315bf3a..b36abfd 100644
 
 So far, so good:
 we've added one line to the end of the file
-(shown with a `+` in the first column).
+(shown with a `+` in the first column). (For a detailed description of the `git diff` report see [this explanation](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/diffs).
+
+
 Now let's put that change in the staging area
 and see what `git diff` reports:
 
@@ -262,8 +265,11 @@ or intermediate files created during data analysis?
 Let's create a few dummy files:
 
 ```bash
+$ cd ..
+$ mkdir analysis
+$ cd analysis
 $ mkdir results
-$ touch a.dat b.dat c.dat results/a.out results/b.out
+$ touch a.dat/ b.dat c.dat results/a.out results/b.out
 ```
 
 and see what Git says:
@@ -326,6 +332,4 @@ $ git status
 # On branch master
 nothing to commit, working directory clean
 ```
-
-As a matter of fact, the workshop's repository has its own `.gitignore` file, which [is found here](.gitignore). You will see `.ipynb_checkpoints` and other common OS configuration files. 
-
+Check out [all these templates](https://github.com/github/gitignore) for `.gitignore` files.

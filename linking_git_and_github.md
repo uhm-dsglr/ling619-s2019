@@ -64,7 +64,6 @@ That "**pushes**" the changes in your local repo out to the GitHub repo, thereby
 It's your time to try: go ahead add another Sundanese language fact to `sundanese.txt`: it has about 34 million speakers. You should follow the workflow above. 
 
 
-
 ## Collaborating
 
 Now that I have the repository living online, I can have collaborators.  But what happens when multiple people work on the same repo? Let's find out. First, I will add someone as a collaborator of my "languages" repo. I go to the GitHub repo, click the settings button on the right, then select Collaborators, and enter this person's username.
@@ -242,5 +241,7 @@ Conflicts can also be minimized with project management strategies:
 
 Time to practice! Create a project in groups of 3 or 4. Practice pushing, pulling and resolving conflicts.
 
+## Setting up SSH in RStudio | linking RStudio and GitHub
 
+Check out [the instructions](linking_github_rstudio.md) on linking GitHub and RStudio and setting up SSH key so that you don't have to input your password each time you push or pull.  
 

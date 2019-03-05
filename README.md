@@ -21,11 +21,11 @@ Below is a tentative course schedule.
 | 1 | 2/5/19   | [Intro to git (Part 1)](intro_to_git_p1.md)       | Brad            |
 | 2 | 2/12/19  | [Intro to git (Part 2)](intro_to_git_p2.md)       | Brad            | 
 | 3 | 2/19/19  | [Linking git & GitHub](linking_git_and_github.md) | Brad            |
-| 4 | 3/5/19   | Collaborating on GitHub                           | TBD             |
-| 5 | 3/12/19  | Data visualization with ggplot (part 1)           | TBD             |
-| 6 | 4/2/19   | Data visualization with ggplot (part 1)           | TBD             |
-| 7 | 4/16/19  | Data transformation with tidyverse (part 1)       | TBD             |
-| 8 | 4/30/19  | Data transformation with tidyverse (part 2)       | TBD             |
+| 4 | 3/5/19   | [Data visualization with ggplot (part 1)](https://github.com/ipbondoc/619-Data-visualization-Part1)                                               | Leah, Ivan      |
+| 5 | 3/12/19  | Data visualization with ggplot (part 2)           | TBD             |
+| 6 | 4/2/19   | Data transformation with tidyverse (part 1)       | TBD             |
+| 7 | 4/16/19  | Data transformation with tidyverse (part 2)       | TBD             |
+| 8 | 4/30/19  | TBD                                               | TBD             |
 
 ## Resources
 This course will draw on two valuable resources: 

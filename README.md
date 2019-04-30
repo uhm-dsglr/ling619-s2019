@@ -24,8 +24,8 @@ Below is a tentative course schedule.
 | 4 | 3/5/19   | [Data visualization with ggplot (part 1)](https://github.com/ipbondoc/619-Data-visualization-Part1)                                          | Leah, Ivan      |
 | 5 | 3/12/19  | Data transformation with tidyverse (part 1)       | Noella          |
 | 6 | 4/2/19   | Data transformation with tidyverse (part 2)       | Christina, Dan  |
-| 7 | 4/16/19  | Exploritory Data Analysis                         | Amber           |
-| 8 | 4/30/19  | Dynamic documents                                 | Brad            |
+| 7 | 4/16/19  | [Exploritory Data Analysis](https://github.com/abcamp/ExploratoryDataAnalysis)                                           | Amber           |
+| 8 | 4/30/19  | [Dynamic documents](https://github.com/mcdonn/2019-lsa-dynamic-docs)                                                        												                           | Brad            |
 
 ## Resources
 This course will draw on two valuable resources: 
